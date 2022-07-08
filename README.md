@@ -32,7 +32,7 @@
 
 
 [1]: http://www.twitter.com/carlsednaoui
-[2]: [http://www.facebook.com/sednaoui](https://www.facebook.com/skdaud.hassan)
+[2]: https://www.facebook.com/skdaud.hassan
 [4]: http://carlsed.tumblr.com
 [5]: http://dribbble.com/carlsednaoui
 [6]: http://www.github.com/carlsednaoui
