@@ -15,7 +15,7 @@
 
 
 
-[![alt text][1.1]][1]
+
 [![alt text][2.1]][2]
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
@@ -31,7 +31,7 @@
 
 
 
-[1]: http://www.twitter.com/carlsednaoui
+
 [2]: https://www.facebook.com/skdaud.hassan
 [4]: http://carlsed.tumblr.com
 [5]: http://dribbble.com/carlsednaoui
