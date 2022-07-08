@@ -22,7 +22,7 @@
 [![alt text][6.1]][6]
 
 
-[1.1]: https://www.flaticon.com/free-icon/instagram_174855 (instagram icon with padding)
+
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
