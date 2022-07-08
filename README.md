@@ -1,6 +1,6 @@
 ### **_Hi there, I'm SK DAUD HASSAN_**
 
-:man_with_turban: # personal Website
+## :man_with_turban: _**personal Website**_
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
