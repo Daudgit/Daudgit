@@ -1,5 +1,7 @@
 ### **_Hi there, I'm SK DAUD HASSAN_**
 
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
