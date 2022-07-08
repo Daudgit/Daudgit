@@ -4,4 +4,5 @@
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 
-<img src=”![DAUD_PLOT_WITHBAR](https://user-images.githubusercontent.com/82196466/178032927-31f3f42d-0d46-4beb-b5d1-f87fb36e3c11.png" alt=”my banner”>
+
+![DAUD_PLOT_WITHBAR](https://user-images.githubusercontent.com/82196466/178033325-748eebd5-56db-4d2d-8ae9-2f34d76b11f9.png)
