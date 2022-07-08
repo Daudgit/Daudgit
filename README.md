@@ -1,6 +1,6 @@
 ### **_Hi there, I'm SK DAUD HASSAN_**
 
-:man_with_turban: This PR looks great - it's ready to merge! :shipit:
+:man_with_turban: # personal Website
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
