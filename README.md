@@ -16,11 +16,4 @@
 <details><summary>CLICK ME</summary>
 <p>
 
-#### We can hide anything, even code!
-
-```ruby
-   puts "Hello World"
-```
-
-</p>
-</details>
+https://www.facebook.com/sharer.php?u={url}
