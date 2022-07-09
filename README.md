@@ -19,6 +19,7 @@
 </div>
 
 ## :man_with_turban: _**Social Links**_ 
+&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
 &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp;
 <a href = "" target="_blank"> <img src="https://github.com/Daudgit/Daudgit/blob/main/linkedin.gif" height="80" width="80" /></a> 
  &nbsp; &nbsp;&nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp;
