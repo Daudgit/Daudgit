@@ -19,10 +19,10 @@
 </div>
 
 ## :man_with_turban: _**Social Links**_ 
+<a href = ""> <img src = "![linkedin](https://user-images.githubusercontent.com/82196466/178093923-af454e7b-7e7f-4643-a00f-f647bc1670f2.gif)" /></a> 
 
 
-
-
+![linkedin](https://user-images.githubusercontent.com/82196466/178093923-af454e7b-7e7f-4643-a00f-f647bc1670f2.gif)
 
 ## :man_with_turban: _**Projects Section**_ 
 
