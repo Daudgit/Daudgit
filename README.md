@@ -1,6 +1,11 @@
-### **_Hi there, I'm SK DAUD HASSAN_**
+<div align="center">
 
-## :man_with_turban: _**personal Website**_ : https://sk-daud-hassan-portfolio.web.app/
+### **_:wave: Hi there, I'm SK DAUD HASSAN_**
+
+</div>
+
+
+## :man_with_turban: _**Personal Website**_ : https://sk-daud-hassan-portfolio.web.app/
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
@@ -16,24 +21,16 @@
 
 
 
-[![alt text][2.1]][2]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
 
-
-
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+## :man_with_turban: _**Projects Section**_ 
 
 
 
 
-[2]: https://www.facebook.com/skdaud.hassan
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
+
+## :man_with_turban: _**Known Tools**_ 
+
+
+
+
 
