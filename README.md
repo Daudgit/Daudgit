@@ -6,7 +6,7 @@
 
 
 ## :man_with_turban: _**About Me**_
-- Currently I'm doing my Bachelor
+- Currently I'm doing my Bachelors Degree
 - Font of Web Developing , Data science
 - Electronics Engineer
 - RKMSian
