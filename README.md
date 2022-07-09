@@ -19,11 +19,17 @@
 </div>
 
 ## :man_with_turban: _**Social Links**_ 
+&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp;
 <a href = "" target="_blank"> <img src="https://github.com/Daudgit/Daudgit/blob/main/linkedin.gif" height="80" width="80" /></a> 
+ &nbsp; &nbsp;&nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp;
 <a href = "" target="_blank"> <img src="https://github.com/Daudgit/Daudgit/blob/main/insta-instagram.gif" height="80" width="80" /></a> 
+&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
 <a href = "" target="_blank"> <img src="https://github.com/Daudgit/Daudgit/blob/main/facebook.gif" height="80" width="80" /></a> 
+&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
 <a href = "" target="_blank"> <img src="https://github.com/Daudgit/Daudgit/blob/main/icons8-geeksforgeeks-480.png" height="80" width="80" /></a> 
+&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
 <a href = "" target="_blank"> <img src="https://github.com/Daudgit/Daudgit/blob/main/icons8-codechef-400.png" height="80" width="80" /></a> 
+&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
 
 ## :man_with_turban: _**Projects Section**_ 
 
