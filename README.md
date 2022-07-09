@@ -10,6 +10,7 @@
 - Font of Web Developing , Data science
 - Electronics Engineer
 - RKMSian
+- JUian
 - [Resume]()
 
 ## :man_with_turban: _**Personal Website**_ : https://sk-daud-hassan-portfolio.web.app/
