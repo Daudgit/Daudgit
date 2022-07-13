@@ -1,11 +1,13 @@
 <div align="center">
 
  
-  
-# **<img src="https://user-images.githubusercontent.com/82196466/178093150-d04e080a-13da-49d9-a43a-a67895960d2f.gif" width="80" height="80"/>**
-
-  
+ 
 [<img src="https://github.com/Daudgit/Daudgit/blob/main/ezgif.com-gif-maker%20(1).gif" height="300"/>](https://sk-daud-hassan-portfolio.web.app/)
+ 
+ 
+<img src="https://github.com/Daudgit/Daudgit/blob/main/matrix.gif" width="1800" height="280"/>
+ 
+ 
   
 </div>
 
