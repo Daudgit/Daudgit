@@ -11,6 +11,7 @@
   
 </div>
 
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Daudgit.Daudgit&color=00cf00)
 
 ## :man_with_turban: _**About Me**_
 
