@@ -6,14 +6,21 @@
 
 
 ## :man_with_turban: _**About Me**_
-- Currently I'm doing my Bachelors Degree
-- Font of Web Developing , Data science
-- Electronics Engineer
-- RKMSian
-- JUian
-- [Resume]()
+
+
+> - Currently I'm doing my Bachelors Degree
+> - Font of Web Developing , Data science
+> - Electronics Engineer
+> - RKMSian
+> - JUian
+> - [Resume]()
+
+
+
 
 ## :man_with_turban: _**Personal Website**_ : https://sk-daud-hassan-portfolio.web.app/
+
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
