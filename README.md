@@ -5,7 +5,7 @@
 # **_<img src="https://user-images.githubusercontent.com/82196466/178093150-d04e080a-13da-49d9-a43a-a67895960d2f.gif" width="80" height="80"/> Hi there, I'm SK DAUD HASSAN_**
 
   
- [<img src="https://github.com/Daudgit/Daudgit/blob/main/final_62ce6a13fd2a8600e0e2ce2f_873419.gif" height="300" target="_blank" />](https://sk-daud-hassan-portfolio.web.app/)
+[<img src="https://github.com/Daudgit/Daudgit/blob/main/final_62ce6a13fd2a8600e0e2ce2f_873419.gif" height="300" target="_blank" />](https://sk-daud-hassan-portfolio.web.app/)
   
 </div>
 
