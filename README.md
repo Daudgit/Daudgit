@@ -15,9 +15,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daudgit&label=Profile%20views&color=0e75b6&style=flat" alt="daudgit" /> </p> 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daudgit" alt="daudgit" /></a> </p>
-
-
 <p align="left"> <a href="https://twitter.com/skdaud_hassan" target="blank"><img src="https://img.shields.io/twitter/follow/skdaud_hassan?logo=twitter&style=for-the-badge" alt="skdaud_hassan" /></a> </p>
 
 
@@ -41,7 +38,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/skdaud_hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skdaud_hassan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sk-daud-hassan-567099147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sk-daud-hassan-567099147" height="30" width="40" /></a>
@@ -95,11 +92,17 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daudgit&show_icons=true&locale=en&layout=compact" alt="daudgit" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Daudgit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Daudgit&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daudgit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daudgit&show_icons=true&locale=en" alt="daudgit" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Daudgit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daudgit&" alt="daudgit" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=Daudgit&icon=4&color=0)](https://visitcount.itsvg.in)
+
 
 
 
@@ -108,8 +111,6 @@
 
 
 
-
-## :man_with_turban: _**Language and Tools**_ 
 
 
 
