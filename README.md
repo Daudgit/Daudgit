@@ -122,7 +122,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Daudgit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+## 💯 Github Streak Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Daudgit&theme=dark&hide_border=false)<br/>
+## Most Used Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daudgit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -138,7 +140,22 @@
 
 
 
+##  📈 Contribution Graph 
+ <table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daudgit&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=Daudgit&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td>
+  </tr>
+</table>
 
+<p align="center">
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Daudgit"></a>
+  
+</p>
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Daudgit/Daudgit/blob/main/ending.svg"/> 
 
 
 
