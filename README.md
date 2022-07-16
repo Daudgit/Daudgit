@@ -41,9 +41,9 @@
 ## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/skdaud_hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skdaud_hassan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sk-daud-hassan-567099147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sk-daud-hassan-567099147" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sk-daud-hassan-567099147" target="blank"><img align="center" src="https://github.com/Daudgit/Daudgit/blob/main/linkedin.gif" alt="sk-daud-hassan-567099147" height="30" width="40" /></a>
 <a href="https://fb.com/skdaud.hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="skdaud.hassan" height="30" width="40" /></a>
-<a href="https://instagram.com/sk.daudhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sk.daudhassan" height="30" width="40" /></a>
+<a href="https://instagram.com/sk.daudhassan" target="blank"><img align="center" src="https://github.com/Daudgit/Daudgit/blob/main/insta-instagram.gif" alt="sk.daudhassan" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/yum_dcode3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yum_dcode3" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/daudcoding/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="daudcoding/profile" height="30" width="40" /></a>
 </p>
@@ -63,19 +63,6 @@
 ![DAUD_PLOT_WITHBAR](https://user-images.githubusercontent.com/82196466/178033325-748eebd5-56db-4d2d-8ae9-2f34d76b11f9.png)
 </div>
 
-## :man_with_turban: _**Social Links**_ 
-&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
-&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp;
-<a href = "" target="_blank"> <img src="https://github.com/Daudgit/Daudgit/blob/main/linkedin.gif" height="80" width="80" /></a> 
- &nbsp; &nbsp;&nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp;
-<a href = "" target="_blank"> <img src="https://github.com/Daudgit/Daudgit/blob/main/insta-instagram.gif" height="80" width="80" /></a> 
-&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
-<a href = "" target="_blank"> <img src="https://github.com/Daudgit/Daudgit/blob/main/facebook.gif" height="80" width="80" /></a> 
-&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
-<a href = "" target="_blank"> <img src="https://github.com/Daudgit/Daudgit/blob/main/icons8-geeksforgeeks-480.png" height="80" width="80" /></a> 
-&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
-<a href = "" target="_blank"> <img src="https://github.com/Daudgit/Daudgit/blob/main/icons8-codechef-400.png" height="80" width="80" /></a> 
-&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
 
 
 
