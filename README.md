@@ -152,7 +152,7 @@
 </table>
 
 <p align="center">
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Daudgit"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Daudgit?theme=rule34"></a>
   
 </p>
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Daudgit/Daudgit/blob/main/ending.svg"/> 
