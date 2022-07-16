@@ -82,4 +82,4 @@
 
 
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/Daudgit)  
+
