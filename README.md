@@ -21,11 +21,16 @@
 ## :man_with_turban: _**About Me**_
 
 
-- Currently I'm doing my Bachelors Degree
-- Font of Web Developing , Data science
-- Electronics Engineer
-- RKMSian
-- JUian
+- 😄 Currently I'm doing my Bachelors Degree
+
+- 👨‍💻 Font of Web Developing , Data science
+
+- 🧑‍🔬 Electronics and Telecommunication Engineer
+
+- 📿 RKMSian
+
+- 🏫 JUian
+
 - 🌱 I’m currently learning **Matplotlib,Internet,OOPS**
 
 - 👨‍💻 All of my projects are available at [https://sk-daud-hassan-portfolio.web.app/](https://sk-daud-hassan-portfolio.web.app/)
