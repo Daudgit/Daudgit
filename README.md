@@ -11,6 +11,9 @@
   
 </div>
 
+![Visitor Count](https://profile-counter.glitch.me/Daudgit/count.svg)
+
+
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Daudgit.Daudgit&color=00cf00)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daudgit&label=Profile%20views&color=0e75b6&style=flat" alt="daudgit" /> </p> 
 
@@ -158,6 +161,7 @@
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Daudgit/Daudgit/blob/main/ending.svg"/> 
 
 
+<a href="https://github.com/Daudgit/Daudgit/issues/1"><img src="images/guestbook.svg"></a>
 
 
 ## :man_with_turban: _**Contact ME**_ 
