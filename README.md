@@ -41,10 +41,10 @@
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://twitter.com/skdaud_hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skdaud_hassan" height="30" width="40" /></a>
+<a href="https://twitter.com/SKDaudhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SKDaudhassan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sk-daud-hassan-567099147" target="blank"><img align="center" src="https://github.com/Daudgit/Daudgit/blob/main/linkedin.gif" alt="sk-daud-hassan-567099147" height="30" width="40" /></a>
 <a href="https://fb.com/skdaud.hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="skdaud.hassan" height="30" width="40" /></a>
-<a href="https://instagram.com/sk.daudhassan" target="blank"><img align="center" src="https://github.com/Daudgit/Daudgit/blob/main/insta-instagram.gif" alt="sk.daudhassan" height="30" width="40" /></a>
+<a href="https://instagram.com/skdaudhassan" target="blank"><img align="center" src="https://github.com/Daudgit/Daudgit/blob/main/insta-instagram.gif" alt="skdaudhassan" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/yum_dcode3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yum_dcode3" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/daudcoding/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="daudcoding/profile" height="30" width="40" /></a>
 </p>
