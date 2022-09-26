@@ -11,7 +11,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/Daudgit/count.svg)
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Daudgit.Daudgit&color=00cf00)
 <img src="https://komarev.com/ghpvc/?username=daudgit&label=Profile%20views&color=0e75b6&style=flat" alt="daudgit" />
-<a href="https://twitter.com/SKDaudhassan" target="blank"><img src="https://img.shields.io/twitter/follow/SKDaudhassan?logo=twitter&style=for-the-badge" alt="SKDaudhassan" /></a>
+<a href="https://twitter.com/SKDaudhasaan?t=E3jAMSwldNDhL8Yo0ECZsA&s=08" target="blank"><img src="https://img.shields.io/twitter/follow/SKDaudhassan?logo=twitter&style=for-the-badge" alt="SKDaudhassan" /></a>
 
 
 
