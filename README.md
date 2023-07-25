@@ -17,7 +17,7 @@
 - 🌱 Currently learning **Matplotlib, Internet, OOPS**.
 - 👨‍💻 All of my projects are available at [My Portfolio](https://sk-daud-hassan-portfolio.web.app/).
 - 📫 You can reach me at: skhassandaud17@gmail.com.
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1kAMbjfxFl4ncOe5nl0oaK8nSEnUHMQ_f/view?usp=sharing).
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/10tDFvVw4ZgIGTA8j37mdtKW8cMkkuSpm/view?usp=sharing).
 
 ## 🌐 Socials:
 
