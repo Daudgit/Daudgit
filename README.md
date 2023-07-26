@@ -10,11 +10,11 @@
 
 ## :man_with_turban: **About Me**
 
-- 😄 I'm currently pursuing my Bachelor's Degree.
+- 😄 I've done my bachelors degree in 2023.
 - 👨‍💻 Passionate about Web Development and Data Science.
 - 🧑‍🔬 Electronics and Telecommunication Engineer.
 - 📿 RKMSian and proud JUian.
-- 🌱 Currently learning **Matplotlib, Internet, OOPS**.
+- 🌱 Currently learning **Web Development in Deep, Computer Networks**.
 - 👨‍💻 All of my projects are available at [My Portfolio](https://sk-daud-hassan-portfolio.web.app/).
 - 📫 You can reach me at: skhassandaud17@gmail.com.
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/10tDFvVw4ZgIGTA8j37mdtKW8cMkkuSpm/view?usp=sharing).
