@@ -17,7 +17,7 @@
 - 🌱 Currently learning **Web Development in Deep, Computer Networks**.
 - 👨‍💻 All of my projects are available at [My Portfolio](https://sk-daud-hassan-portfolio.web.app/).
 - 📫 You can reach me at: skhassandaud17@gmail.com.
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1rvV3Ys5i8ova9Sa8N6gMAUO-orGJVX5v/view?usp=sharing).
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1rFWLDKtmw1nE97RxDosu6W3e7Pd91VRB/view?usp=sharing).
 
 ## 🌐 Socials:
 
