@@ -4,7 +4,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Daudgit/count.svg)
 ![Profile views](https://komarev.com/ghpvc/?username=daudgit&label=Profile%20views&color=0e75b6&style=flat)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SKDaudhassan?logo=twitter&style=for-the-badge)](https://twitter.com/SKDaudhasaan?t=E3jAMSwldNDhL8Yo0ECZsA&s=08)
+
 
 </div>
 
@@ -22,7 +22,6 @@
 ## 🌐 Socials:
 
 <p align="left">
-  <a href="https://twitter.com/SKDaudhasaan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SKDaudhassan" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/sk-daud-hassan-567099147" target="blank"><img src="https://github.com/Daudgit/Daudgit/blob/main/linkedin.gif" alt="sk-daud-hassan-567099147" height="30" width="40" /></a>
   <a href="https://fb.com/skdaud.hassan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="skdaud.hassan" height="30" width="40" /></a>
   <a href="https://instagram.com/skdaudhassan" target="blank"><img src="https://github.com/Daudgit/Daudgit/blob/main/insta-instagram.gif" alt="skdaudhassan" height="30" width="40" /></a>
