@@ -51,6 +51,7 @@
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Daudgit&theme=dark&hide_border=false)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daudgit&theme=dark&hide_border=false&layout=compact)
 
+
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Daudgit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
