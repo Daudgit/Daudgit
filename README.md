@@ -10,7 +10,7 @@
 
 ## :man_with_turban: **About Me**
 
-- 😄 I've done my bachelors degree in 2023..
+- 😄 I've done my bachelors degree in 2023......
 - 👨‍💻 Passionate about Web Development and Data Science.
 - 🧑‍🔬 Electronics and Telecommunication Engineer.
 - 📿 RKMSian and proud JUian.
